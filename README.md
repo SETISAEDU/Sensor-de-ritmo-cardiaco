@@ -18,6 +18,16 @@ Las Especificaciones técnicas son:
 ![Vista frontal](https://raw.githubusercontent.com/SETISAEDU/Sensor-de-ritmo-cardiaco/master/sensor1.jpeg) 
 ![Vista trasera](https://raw.githubusercontent.com/SETISAEDU/Sensor-de-ritmo-cardiaco/master/sensor2.jpeg)
 
+## Modulo Bluetooth HC-05
+
+Bluetooth es una especificación industrial para Redes Inalámbricas de Área Personal (WPAN) que posibilita la transmisión de voz y datos entre diferentes dispositivos mediante un enlace por radiofrecuencia en la banda ISM de los 2.4 GHz.
+
+El dispositivo bluetooth HC-05, gracias a sus puertos TxD y RxD nos permite realizar comunicaciones inalámbrica-mente a 10 mts máximo. Son dispositivos faciles de utilizar, esto gracias a su SPP (Serial Port Protocol) de bajo consumo ya que trabajan a 3.3V. El módulo bluetooth HC-05 resultan populares para aplicaciones sobre todo con microcontroladores PIC tarjetas de desarrollo tipo Arduino. 
+
+
+EL modulo Bluetooth HC-05 viene configurado de fábrica como Esclavo, pero se puede cambiar para que trabaje como maestro. El programa: `Modo AT.ino` permite configurar el módulo Bluetooth HC-05 a través de comandos AT enviados desde Arduino.
+
+
 
 
 
