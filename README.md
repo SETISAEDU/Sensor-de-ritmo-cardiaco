@@ -15,4 +15,9 @@ Las Especificaciones técnicas son:
 
 4-	Terminales de conexión: Dupont macho
 
+![Vista frontal](https://raw.githubusercontent.com/SETISAEDU/Sensor-de-ritmo-cardiaco/master/sensor1.jpeg) 
+![Vista trasera](https://raw.githubusercontent.com/SETISAEDU/Sensor-de-ritmo-cardiaco/master/sensor2.jpeg)
+
+
+
 
