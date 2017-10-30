@@ -14,8 +14,7 @@ int Threshold = 520;           //Dato analogico considerado como un pulso
 
 
 void setup() {
-  pinMode(13,OUTPUT);        !
-
+  pinMode(13,OUTPUT); 
   pinMode(2,OUTPUT);
   Serial.begin(9600);        
   Serial1.begin(57600);     // Velocidad de comunicacion con el modulo Bluetooth HC-05 
